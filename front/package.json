@@ -1,0 +1,10 @@
+{
+    "name": "traffic-visualization-frontend",
+    "version": "1.0.0",
+    "scripts": {
+      "build": "echo 'No build step required for static files' && exit 0"
+    },
+    "dependencies": {
+      "three": "^0.132.2"
+    }
+  }
